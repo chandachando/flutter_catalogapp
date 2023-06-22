@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          child: Text("Welcome to $days days of $str"),
+          child: Text("I am TRYing To MAke an ApP"),
         ),
       ),
       drawer: Drawer(),
