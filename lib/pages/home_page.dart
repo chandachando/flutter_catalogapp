@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_catalogapp/widgets/drawer.dart';
 
 class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    const int days = 30;
-    const String str = "Flutter";
-
     return Scaffold(
       appBar: AppBar(
         title: Text("Catalog App"),
@@ -15,7 +13,7 @@ class HomePage extends StatelessWidget {
           child: Text("I am TRYing To MAke an ApP"),
         ),
       ),
-      drawer: Drawer(),
+      drawer: MyDrawer(),
     );
   }
 }
