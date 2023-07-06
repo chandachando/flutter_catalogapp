@@ -3,7 +3,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_catalogapp/utilities/routes.dart';
 import 'package:flutter_catalogapp/widgets/themes.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter_catalogapp/pages/home_page.dart';
 import 'package:flutter_catalogapp/pages/login_page.dart';
 
