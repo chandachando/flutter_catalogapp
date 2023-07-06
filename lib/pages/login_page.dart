@@ -120,13 +120,6 @@ class _LoginPageState extends State<LoginPage> {
                           ),
                         ),
                       )
-                      // ElevatedButton(
-                      //   onPressed: () {
-                      //     Navigator.pushNamed(context, MyRoutes.homeRoute);
-                      //   },
-                      //   style: TextButton.styleFrom(minimumSize: Size(120, 40)),
-                      //   child: Text("Login"),
-                      // ),
                     ],
                   ),
                 )
