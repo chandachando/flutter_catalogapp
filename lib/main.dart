@@ -1,10 +1,8 @@
-// ignore_for_file: prefer_const_constructors
-
 import 'package:flutter/material.dart';
-import 'package:flutter_catalogapp/utilities/routes.dart';
-import 'package:flutter_catalogapp/widgets/themes.dart';
-import 'package:flutter_catalogapp/pages/home_page.dart';
 import 'package:flutter_catalogapp/pages/login_page.dart';
+import 'package:flutter_catalogapp/utilities/routes.dart';
+import 'pages/home_page.dart';
+import 'widgets/themes.dart';
 
 void main() {
   runApp(MyApp());
@@ -20,9 +18,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       initialRoute: MyRoutes.homeRoute,
       routes: {
-        // "/": (context) => LoginPage(),
+        "/": (context) => LoginPage(),
         MyRoutes.homeRoute: (context) => HomePage(),
-        MyRoutes.loginRoute: (context) => LoginPage(),
+        MyRoutes.loginRoute: (context) => LoginPage()
       },
     );
   }
