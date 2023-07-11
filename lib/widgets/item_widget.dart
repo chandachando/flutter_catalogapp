@@ -9,12 +9,11 @@ class ItemWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      shape: StadiumBorder(),
       child: ListTile(
         onTap: () {
           print("${item.name} pressed");
         },
-        leading: Image.asset("assets/images/hey.png"),
+        leading: Image.network(item.image),
         title: Text(item.name),
         trailing: Text(
           "\$${item.price}",

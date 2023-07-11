@@ -1,18 +1,19 @@
 class CatalogModel {
   static final items = [
     Item(
-      id: "moon001",
+      id: 001,
       name: "IPHONE 11 Pro MAX",
       desc: "Apple IPHONE 11th Generation",
       price: 999,
       color: "#33505a",
-      image: "",
+      image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc",
     )
   ];
 }
 
 class Item {
-  final String id;
+  final int id;
   final String name;
   final String desc;
   final num price;
