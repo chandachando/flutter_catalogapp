@@ -30,7 +30,7 @@
             "desc": "Sony Playstation 5th generation",
             "price": 500,
             "color": "#544ee4",
-            "image": "https://www.shophive.com/media/catalog/product/cache/3617b85921733ef3774cdbec091e1c0f/6/1/619bkvkw35l._sl1500_.jpg"
+            "image": "https://image.pngaaa.com/542/3365542-middle.png"
         },
         {
             "id": 5,
@@ -58,11 +58,11 @@
         },
         {
             "id": 8,
-            "name": "Galaxy S21",
-            "desc": "Samsung Galaxy S21 2021 edition",
+            "name": "Galaxy Note 20 Ultra",
+            "desc": "Samsung Galaxy Note 20 Last edition",
             "price": 899,
             "color": "#7c95eb",
-            "image": "https://appleman.pk/cdn/shop/products/Samsung-S21-Plus-1_800x.jpg?v=1667739002"
+            "image": "https://w7.pngwing.com/pngs/276/503/png-transparent-galaxy-note-20-ultra.png"
         }
     ]
 }
