@@ -6,7 +6,7 @@
             "desc": "Apple iPhone 12th generation",
             "price": 999,
             "color": "#33505a",
-            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
+            "image": "https://ucarecdn.com/bbf12602-f64b-4dfd-adbf-4c48f79655d7/"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "desc": "Google Pixel phone 5th generation",
             "price": 699,
             "color": "#00ac51",
-            "image": "https://www.telstra.com.au/content/dam/tcom/lego/2020/plans-devices/mobiles/google-pixel-5/shared-google-pixel-5-black-05-900x1200.png"
+            "image": "https://ucarecdn.com/fcd85ebe-6b91-4dd3-a29b-5b733312dc53/"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "desc": "Apple Macbook air with apple silicon",
             "price": 1099,
             "color": "#e0bfae",
-            "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP825/macbookair.png"
+            "image": "https://ucarecdn.com/54fe0f2c-33c2-4767-b939-b49d9410a6b4/"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "desc": "Sony Playstation 5th generation",
             "price": 500,
             "color": "#544ee4",
-            "image": "https://image.pngaaa.com/542/3365542-middle.png"
+            "image": "https://ucarecdn.com/1b997406-9f66-439d-8646-5ddd6a7134fc/isrgkusek1dnrs99yrmj.webp"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "desc": "Apple Aipods Pro 1st generation",
             "price": 200,
             "color": "#e3e4e9",
-            "image": "https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
+            "image": "https://ucarecdn.com/acc01bfd-f903-41c1-9e08-5cd853eb9cab/400116wirelessportableheadphonesappleairpodspro10009323.png"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "desc": "Apple iPad Pro 2020 edition",
             "price": 799,
             "color": "#f73984",
-            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
+            "image": "https://ucarecdn.com/29616213-2367-4da0-9558-fc72fb49ba74/ipadpro12selectwifisilver202003_FMT_WHH.png"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "desc": "Samsung Galaxy S21 Ultra 2021 edition",
             "price": 1299,
             "color": "#1c1c1c",
-            "image": "https://lh3.googleusercontent.com/qRQPjHrhRVIs-xnfNSyiPXOH2vH97ylMacgbTKebqJtRfNH3LlYo8pN-5igsLDWUH62tGl5zNpTsl5xd8SprzGmXoCEmWFOi2-2cQVGS-r3PaRXHt62DmJHq-jrYX0UQvWZ9BA=s800-c"
+            "image": "https://ucarecdn.com/1ada9a38-3af9-4511-a221-4bd14bc4d8f2/unnamed.png"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "desc": "Samsung Galaxy Note 20 Last edition",
             "price": 899,
             "color": "#7c95eb",
-            "image": "https://w7.pngwing.com/pngs/276/503/png-transparent-galaxy-note-20-ultra.png"
+            "image": "https://ucarecdn.com/b33f8c77-caab-4d09-8df3-5396ff16f4d3/pngtransparentgalaxynote20ultra.png"
         }
     ]
 }

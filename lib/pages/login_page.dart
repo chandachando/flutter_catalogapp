@@ -1,5 +1,3 @@
-// ignore_for_file: prefer_const_constructors
-
 import 'package:flutter/material.dart';
 import 'package:flutter_catalogapp/utilities/routes.dart';
 
@@ -20,7 +18,7 @@ class _LoginPageState extends State<LoginPage> {
         changedButton = true;
       });
 
-      await Future.delayed(Duration(seconds: 1));
+      await Future.delayed(const Duration(seconds: 1));
       await Navigator.pushNamed(context, MyRoutes.homeRoute);
       setState(() {
         changedButton = false;
@@ -43,12 +41,12 @@ class _LoginPageState extends State<LoginPage> {
                 ),
                 Text(
                   "Welcome $name",
-                  style: TextStyle(
+                  style: const TextStyle(
                     fontSize: 28,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-                SizedBox(
+                const SizedBox(
                   height: 20.0,
                 ),
                 Padding(
@@ -57,7 +55,7 @@ class _LoginPageState extends State<LoginPage> {
                   child: Column(
                     children: [
                       TextFormField(
-                        decoration: InputDecoration(
+                        decoration: const InputDecoration(
                           hintText: "Enter username",
                           labelText: "Username",
                         ),
@@ -76,7 +74,7 @@ class _LoginPageState extends State<LoginPage> {
                       ),
                       TextFormField(
                         obscureText: true,
-                        decoration: InputDecoration(
+                        decoration: const InputDecoration(
                           hintText: "Enter password",
                           labelText: "Password",
                         ),
@@ -89,10 +87,9 @@ class _LoginPageState extends State<LoginPage> {
                           return null;
                         },
                       ),
-                      SizedBox(
+                      const SizedBox(
                         height: 40.0,
                       ),
-
                       Material(
                         color: Colors.deepPurple,
                         borderRadius:
@@ -100,16 +97,16 @@ class _LoginPageState extends State<LoginPage> {
                         child: InkWell(
                           onTap: () => (moveToHome(context)),
                           child: AnimatedContainer(
-                            duration: Duration(seconds: 1),
+                            duration: const Duration(seconds: 1),
                             height: 50,
                             width: changedButton ? 50 : 150,
                             alignment: Alignment.center,
                             child: changedButton
-                                ? Icon(
+                                ? const Icon(
                                     Icons.done,
                                     color: Colors.white,
                                   )
-                                : Text(
+                                : const Text(
                                     "Login",
                                     style: TextStyle(
                                       color: Colors.white,

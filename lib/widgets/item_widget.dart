@@ -18,6 +18,7 @@ class ItemWidget extends StatelessWidget {
         trailing: Text(
           "\$${item.price}",
           textScaleFactor: 1.5,
+          // ignore: prefer_const_constructors
           style: TextStyle(
             color: Colors.deepPurple,
           ),
